@@ -3,8 +3,30 @@
 
 
 **Disclaimer:** по политике Яндекс.Практикума таблицы с данными отсутствуют
+***
 
-**Проекты:**
+### Используемые библиотеки
+```
+pandas
+numpy
+requests
+pymystem3
+matplotlib.pyplot
+math
+seaborn
+scipy
+sklearn
+sidetable
+sqlalchemy
+datetime
+plotly.express
+plotly
+collections 
+```
+
+***
+
+### Проекты:
 1. Предобработка данных, исследование надёжности заёмщиков банка
 
 >Полученные знания/навыки/изученные методы:
